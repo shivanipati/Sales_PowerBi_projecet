@@ -1,1 +1,3 @@
-# Sales_PowerBi_projecet
+# Sales - Data analysis (Interactive Dashboard creating using Power Bi )
+
+## Project Objective
