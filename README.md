@@ -45,7 +45,14 @@ The objective of this project is to analyze sales data to provide meaningful ins
 -Sales per Region: Sales distribution across various regions.
 
 ## Dashboard 
+![Screenshot 2024-10-02 140436](https://github.com/user-attachments/assets/9fd82c10-52eb-4c0e-a2c7-ca6844955733)
+
 ![Screenshot 2024-10-02 140355](https://github.com/user-attachments/assets/ed86081f-18d9-46a9-ba5b-c0e8c87061be)
+
+![Screenshot 2024-10-02 140415](https://github.com/user-attachments/assets/5d6206be-8a16-4a90-b13a-97b7850bf50e)
+
+
+
 
 
 
